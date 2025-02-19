@@ -10,6 +10,8 @@ Aplicar todos los conocimientos del curso en un desarrollo colaborativo. Hice un
 ## Forks
 Se realizaron los dos Fork según indicaciones del trabajo a los proyectos de dos compañeros.
 
-| Usuario | Cambios |
+| Usuario Origen | Cambios |
 | --- | --- |
-| [cmillal](https://github.com/cmillal/cmillal.github.io) | 2 |
+| [Cristobal Millalonco](https://github.com/cmillal/cmillal.github.io) | 2 |
+| --- | --- |
+| [Vladimir Faundez](https://github.com/vfaundez-dev/vfaundez-dev.github.io) | 4 |
