@@ -1,16 +1,39 @@
-# Información y Fuentes de mi primer proyecto
+<h1>Información y Fuentes de mi primer proyecto</h1>
 
-Trabajo final del módulo de introducción al desarrollo Web (G92)
+<p> Trabajo final del módulo de introducción al desarrollo Web (G92) </p>
+  
 
----
-
-## Objetivo
+<h2>Objetivo</h2>
 Aplicar todos los conocimientos del curso en un desarrollo colaborativo. Hice una adaptación diferente de mi CV inicial donde agregué un par de enlaces para mostrar una reseña de quién soy, permitiendo mostrarme no solo como profesional, sino también como persona.
 
-## Forks
+<h2> Forks </h2>
 Se realizaron los dos Fork según indicaciones del trabajo a los proyectos de dos compañeros.
 
-| Usuario Origen |Repositorio Fork |Cambios | Detalle|
-| --- | --- |
-| [Cristobal Millalonco](https://github.com/cmillal/cmillal.github.io) |https://github.com/odraug21/cmillal.github.io | 2 | |
-| [Vladimir Faundez](https://github.com/vfaundez-dev/vfaundez-dev.github.io) | https://github.com/odraug21/vfaundez-dev.github.io | 4 | Se realizaron cambios en CCS, Color Header, Color Foodet, Forma de botones y colores, Texto del detalle de portafolio, el CSS tenia fuentes integradas por lo que los cambios a nivel de imagen no pudieron ser muchos|
+<table>
+  <thead>
+      <tr>
+          <th>Usuario</th>
+          <th>Link</th>
+          <th>cantidad commit</th>
+          <th>Comentario</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Vladimor Faundez</td>
+          <td>https://github.com/odraug21/vfaundez-dev.github.io</td>
+          <td>4</td>
+          <td>Se realizo cambios a este proyecto en CSS, y en le index alineación en los textos del portafolio </td>
+      </tr>
+      <tr>
+          <td>Cristobal Millalonco</td>
+          <td>https://github.com/odraug21/cmillal.github.io</td>
+          <td>8</td>
+          <td>Se realizo cambios a este proyecto en CSS, y en le index alineación en los textos del portafolio, color de body y otros detalles de alineación </td>
+      </tr>
+  </tbody>
+</table>
+
+<p align="left">
+<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
